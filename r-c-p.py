@@ -27,4 +27,11 @@ def compare(u1, u2):
     else:
         return("Invalid input! type the right word. ")
         sys.exit()     
+
+
+
+
 print(compare(user1_answer, user2_answer))
+
+
+
