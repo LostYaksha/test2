@@ -26,13 +26,5 @@ def compare(u1, u2):
             return("Scissors win!")
     else:
         return("Invalid input! type the right word. ")
-        sys.exit()
-
-
-
-
-        
+        sys.exit()     
 print(compare(user1_answer, user2_answer))
-
-
-
