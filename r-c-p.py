@@ -27,6 +27,7 @@ def compare(u1, u2):
     else:
         return("Invalid input! You have not entered rock, paper or scissors, try again.")
         sys.exit()
-
-
 print(compare(user1_answer, user2_answer))
+
+
+
