@@ -31,7 +31,7 @@ def compare(u1, u2):
 
 
 
-print(compare(user1_answer, user2_answer))
+print(coympare(user1_answer, user2_answer))
 
 
 
